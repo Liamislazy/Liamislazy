@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liamislazy&label=Profile views&color=0e75b6&style=flat" alt="Liamislazy" /> </p>
-
 - 🔭 I'm currently working on **a NLP project**
 
 - 🌱 I'm currently learning **Computer Vision**
@@ -16,7 +14,7 @@
 <p align="left">
 <a href="https://github.com/Liamislazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Liamislazy" height="30" width="40" /></a>
 <a href="https://kaggle.com/liamislazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liamislazy" height="30" width="40" /></a>
-<a href="https://fb.com/Liam Walter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Liam Walter" height="30" width="40" /></a>
+<a href="https://fb.com/liam.walter.890757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liam.walter.890757" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Liamislazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Liamislazy" height="30" width="40" /></a>
 <a href="https://leetcode.com/Liamislazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Liamislazy" height="30" width="40" /></a>
 </p>
