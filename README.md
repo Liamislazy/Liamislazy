@@ -6,6 +6,6 @@
 
 - 🌱 I'm currently learning **Computer Vision**
 
-- 📫 How to reach me **tunglamcao117@gmail.com**
+- 📫 How to reach me **cao.tlam117@gmail.com**
 
 - ⚡ Fun fact **I have a hitchhiker's thumb**
