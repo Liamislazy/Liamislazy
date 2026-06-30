@@ -47,8 +47,8 @@ I am an **Informatics Major at the High School for the Gifted (PTNK)** in Vietna
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liamislazy&show_icons=true&theme=tokyonight&count_private=true" alt="Liam's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liamislazy&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.addone.vercel.app/api?username=Liamislazy&show_icons=true&theme=tokyonight&count_private=true" alt="Liam's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.addone.vercel.app/api/top-langs/?username=Liamislazy&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="40%"/>
 </p>
 
 ---
