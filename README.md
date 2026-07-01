@@ -36,11 +36,11 @@ I am an **Informatics Major at the High School for the Gifted (PTNK)** in Vietna
 
 ## 🧪 Featured AI & Olympiad Repositories
 
-* 🧠 **[tensortonic](https://github.com/Liamislazy/TensorTonic-Solutions)** *(Make sure this link is correct)* *My built-from-scratch deep learning playground. Standard neural network components, backpropagation, and optimization algorithms implemented purely in NumPy to master the deep mathematical foundations of AI.*
+* 🧠 **[tensortonic](https://github.com/Liamislazy/TensorTonic-Solutions)** *My built-from-scratch deep learning playground. Standard neural network components, backpropagation, and optimization algorithms implemented purely in NumPy to master the deep mathematical foundations of AI.*
 
-* 🏆 **[VOAI-IOAI-Preparation](https://github.com/Liamislazy/VOAI-IOAI-Preparation)** *(Replace with your actual repo link)* *The nerve center for my competitive AI training. This repository hosts my solutions, pipelines, and feature engineering notebooks for **Kaggle**, **CodaBench**, mock AI Olympiad challenges, and self-directed practice projects.*
+* 🏆 **[VOAI-IOAI-Preparation](https://github.com/Liamislazy/VOAI-IOAI-Preparation)** *The nerve center for my competitive AI training. This repository hosts my solutions, pipelines, and feature engineering notebooks for **Kaggle**, **CodaBench**, mock AI Olympiad challenges, and self-directed practice projects.*
 
-* 📈 **[Competitive-Programming](https://github.com/Liamislazy/CP-Solution)** *(Replace with your actual repo link)* *A collection of advanced data structures, graph theory, and dynamic programming solutions written in C++ and Python, backing my algorithmic foundation at PTNK.*
+* 📈 **[Competitive-Programming](https://github.com/Liamislazy/CP-Solution)** *A collection of advanced data structures, graph theory, and dynamic programming solutions written in C++ and Python, backing my algorithmic foundation at PTNK.*
 
 ---
 
